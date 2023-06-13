@@ -4,7 +4,7 @@ An implementation of the red-black tree data structure.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/mfiano/red-black-tree.git   |
-| commit  | {"messa  |
+| commit  | 448ca17  |
 | systems | red-black-tree |
 |---------+-------------------------------------------|
 
