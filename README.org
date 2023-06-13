@@ -1,0 +1,10 @@
+* red-black-tree
+
+An implementation of the red-black tree data structure.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/red-black-tree.git   |
+| commit  | {"messa  |
+| systems | red-black-tree |
+|---------+-------------------------------------------|
+
